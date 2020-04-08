@@ -22,10 +22,10 @@ Serge from Virally
 
 ![](.//media/image4.png)
 
-![](.//media/image5.png)Follow us on Twitter and send us pictures of
+![](.//media/image5.png) Follow us on Twitter and send us pictures of
 your face shields
 [www.Twitter.com/BillionShields](http://www.Twitter.com/BillionShields)
 
-![](.//media/image6.jpeg)Support on Patreon (add link)
+![](.//media/image6.jpeg) Support on Patreon (add link)
 
-![](.//media/image7.png)Connect on LinkedIn
+![](.//media/image7.png) Connect on LinkedIn https://www.linkedin.com/in/broadcastic
