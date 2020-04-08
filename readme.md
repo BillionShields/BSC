@@ -1,4 +1,6 @@
-# Can we \#SaveTheWold from Coronavirus with a face shield and a tag?
+# Billion Face Shields World Challenge
+
+## Can we \#SaveTheWold from Coronavirus spread with a face shield and a tag?
 
 Yes, folks, I need your help. We can fight the coronavirus with our
 ingenuity\! We can create simple Face Shields from large soda bottles.
