@@ -17,7 +17,7 @@ Here’s a video on how to do it\! Spread the word and share these
 instructions.
 
 ![Save The World Bottles2Shields Make Face Shield from soda bottle
-\#Coronavirus](.//media/image1.jpg)
+\#Coronavirus](.//media/image1.jpg)(https://youtu.be/6lk15dIZRDM)
 
 Would it be cool if every soda bottle came with a simple label –
 instructions on how to do it? Let’s reach to Pepsi and Coke and see what
