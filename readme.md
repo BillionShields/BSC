@@ -1,6 +1,17 @@
-# Billion Face Shields World Challenge
+# Can we \#SaveTheWold from Coronavirus with a face shield and a tag?
 
-## Can we \#SaveTheWold from Coronavirus spread with a face shield and a tag?
+# Disclaimer
+
+It is advised that information on this page should be used only as
+general guides and not as the ultimate advice for the topics covered.
+The author and/or publisher shall have neither liability nor
+responsibility to any person or entity with respect to any loss or
+damage caused or alleged to be caused directly or indirectly by the
+information covered in this video. This video is not intended for use as
+a source of health, business, legal, or accounting advice. This video is
+for informational purposes only. If advice concerning the health,
+financial, legal, business or related matters is needed, the services of
+a fully qualified professional should be sought.
 
 Yes, folks, I need your help. We can fight the coronavirus with our
 ingenuity\! We can create simple Face Shields from large soda bottles.
@@ -24,10 +35,10 @@ Serge from Virally
 
 ![](.//media/image4.png)
 
-![](.//media/image5.png) Follow us on Twitter and send us pictures of
+![](.//media/image5.png)Follow us on Twitter and send us pictures of
 your face shields
 [www.Twitter.com/BillionShields](http://www.Twitter.com/BillionShields)
 
-![](.//media/image6.jpeg) Support on Patreon (add link)
+![](.//media/image6.jpeg)Support on Patreon (add link)
 
-![](.//media/image7.png) Connect on LinkedIn https://www.linkedin.com/in/broadcastic
+![](.//media/image7.png)Connect on LinkedIn
