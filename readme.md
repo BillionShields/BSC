@@ -26,8 +26,12 @@ together\! And maybe we just can save the whole world too\!
 
 ![](.//media/image2.jpg)![](.//media/image3.jpg)
 
-Translated versions available in French, Russian, Spanish. You can
-translate to your own language too.
+Translated versions available in French https://github.com/BillionShields/BSC/blob/master/labels/BottleLabelFrench.png, https://github.com/BillionShields/BSC/blob/master/labels/DoorLableFrench.png, 
+
+Russian https://github.com/BillionShields/BSC/blob/master/labels/DoorLableRussian.png,https://github.com/BillionShields/BSC/blob/master/labels/BottleLableRussian.png, 
+
+Spanish https://github.com/BillionShields/BSC/blob/master/labels/BottleLableSpanish.png, https://github.com/BillionShields/BSC/blob/master/labels/DoorLableSpanish.png . You can translate to your own language too.
+
 
 ## How can you help?
 
