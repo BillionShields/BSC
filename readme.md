@@ -14,7 +14,7 @@ ingenuity\! We can create simple Face Shields from large soda bottles.
 Here’s a video on how to do it\! Spread the word and share these
 instructions.
 
-![](.//media/image1.jpeg)
+[![](.//media/image1.jpeg)](https://www.youtube.com/watch?v=6lk15dIZRDM)
 
 ## Labels for doors and bottles
 
@@ -24,7 +24,7 @@ they can do. Meanwhile, watch the video, make some shields and donate
 some to your friends, neighbors and our first responders\! Let’s do this
 together\! And maybe we just can save the whole world too\!
 
-[![](.//media/image2.jpg)](https://youtu.be/6lk15dIZRDM )
+![](.//media/image2.jpg) ![](.//media/image3.jpg)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6lk15dIZRDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
