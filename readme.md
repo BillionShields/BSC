@@ -12,7 +12,7 @@ a fully qualified professional should be sought.</span>
 Yes, folks, I need your help. We can fight the coronavirus with our
 ingenuity\! We can create simple Face Shields from large soda bottles.
 Here’s a video on how to do it\! Spread the word and share these
-instructions.
+instructions. Click on image to Play video
 
 [![](.//media/image1.jpeg)](https://www.youtube.com/watch?v=6lk15dIZRDM)
 
